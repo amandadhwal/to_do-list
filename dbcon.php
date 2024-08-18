@@ -9,12 +9,8 @@
     
     if(!$connection)
     {
-        die("connection fail");
+        die("connection failed".mysqli_error());
     }
-    else
-    {
-        echo "connected";
-    }
-
+   
 
 ?>
