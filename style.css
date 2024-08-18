@@ -13,6 +13,11 @@
     display: flex;
     justify-content: space-between;
 }
+
+h6{
+    text-align: center;
+    color: rgb(208, 6, 6);
+}
     /* .box1 h2
     {
         float: left;
